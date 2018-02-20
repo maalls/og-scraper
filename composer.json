@@ -1,0 +1,15 @@
+{
+  "name": "maalls/og-tag-scraper",
+  "autoload": {
+      "psr-4" : {
+          "Maalls\\OgTagScraper\\" : "src"
+      }
+  },
+
+  "require": {
+    "maalls/domdocument": "~1.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^7"
+  }
+}
