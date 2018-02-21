@@ -2,7 +2,7 @@
   "name": "maalls/og-tag-scraper",
   "autoload": {
       "psr-0" : {
-          "Maalls\\OgTagScraper\\" : "src"
+          "Maalls\\OGTagScraper\\" : "src/"
       }
   },
 

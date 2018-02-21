@@ -3,7 +3,7 @@
 declare(strict_types=1);
 
 use PHPUnit\Framework\TestCase;
-use Maalls\OgTagScraper\OGTagScraper;
+use Maalls\OGTagScraper\OGTagScraper;
 
 final class OGTagScraperTest extends TestCase
 {
